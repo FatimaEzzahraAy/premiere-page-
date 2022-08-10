@@ -1,0 +1,26 @@
+body{
+      color:rgb(247, 250, 239);
+      background-image: url(blue.jpg) ;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+      text-align: center;
+      color: rgb(251, 251, 252);
+      font-size:x-large;
+      font-style: oblique;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+article{ 
+      color: rgb(18, 19, 19);
+      font-size: medium;
+      font-family: 'Times New Roman', Times, serif;
+      font-style: italic;
+}
+footer{
+      color:rgb(185, 117, 117);
+      font-style: italic;
+}
+a{
+      color:rgb(44, 214, 149);
+      font-family: Georgia, 'Times New Roman', Times, serif;
+}
